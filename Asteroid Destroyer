@@ -1,0 +1,3 @@
+#!/bin/sh
+cd documents/dev/ruby/"asteroid destroyer"
+ruby lib/main.rb
